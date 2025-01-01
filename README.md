@@ -43,6 +43,7 @@ SQLite3 (should be included with Python)
 🚀 Installation:
 
 Clone the repository:
+
 bash
 
 Copy code
