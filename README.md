@@ -48,7 +48,8 @@ bash
 
 Copy code
 
-git clone https://github.com/username/repository-name.git
+git clone 
+https://github.com/RupeshShinde1307/Brainmine-Web-Solutions-Assignment
 
 cd repository-name
 
